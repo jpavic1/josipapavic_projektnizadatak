@@ -1,6 +1,10 @@
 body {
     font-family: Arial, sans-serif; 
 }
+@font-face {
+	font-family: "JosipaPavic";
+	src:url("font/JosipaPavic.ttf");
+}
 .paragraf_1 {
     color: black;
     font-family: Arial, sans-serif; 
@@ -22,7 +26,7 @@ body {
     margin: 30px;
 }
 h1 {
-    font-family: "JosipaPavic", serif; 
+    font-family: "JosipaPavic", sans-serif; 
     font-size: 2.5em; 
     color: #333; 
 	margin-left:110pt;
